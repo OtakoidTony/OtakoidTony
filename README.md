@@ -7,6 +7,7 @@
 ## My Favorite Animation
 
 - Steins;Gate
+- Sword Art Online
 - Gochiusa
 
 ## My Development Field
