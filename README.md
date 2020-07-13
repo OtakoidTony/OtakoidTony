@@ -6,7 +6,7 @@
 
 ## My Favorite Animation
 
-- Superb Song of the Valkyries: Symphogear
+- Symphogear
 - Steins;Gate
 - Sword Art Online
 - Gochiusa
