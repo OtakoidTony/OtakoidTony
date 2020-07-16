@@ -15,3 +15,16 @@
 
 - Chat Bot « Kakaotalk, Discord, Telegram »
 - Web Crawler
+
+## Languages What I tried
+
+- CSharp
+- Python
+- RGSS (Ruby Game Scripting System)
+- Love2D (Lua)
+- Wolfram Mathematica
+- R
+- C/C++
+- JavaScript
+- Java
+- PowerShell
