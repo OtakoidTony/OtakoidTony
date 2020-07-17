@@ -7,7 +7,7 @@
 ## My Favorite Animation
 
 - Symphogear
-- Steins;Gate
+- Science Adventure Series
 - Sword Art Online
 - Gochiusa
 
