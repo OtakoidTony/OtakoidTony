@@ -17,7 +17,7 @@
 - Web Crawler
 - Downloader
 
-## Languages What I tried
+## Tried Languages
 
 - CSharp
 - Python
