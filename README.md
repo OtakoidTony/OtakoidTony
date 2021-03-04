@@ -37,4 +37,5 @@
 - PowerShell
 - Fortran
 - Octave
-- Matlab
+- MATLAB
+- Julia
