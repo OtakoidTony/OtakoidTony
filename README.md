@@ -17,6 +17,12 @@
 - Web Crawler
 - Downloader
 
+## My Favorite Languages
+
+- CSharp
+- Python
+- MATLAB
+
 ## Tried Languages
 
 - CSharp
